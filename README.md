@@ -1,14 +1,13 @@
 # Hi there, I'm Aliona!👋
 
-I'm a student in **Computer Science, Statistics, and Artificial Intelligence (ISIA)** at **Polytech Lille**.  
-I am passionate about software development and data-driven problem solving, with a focus on building efficient and intelligent systems.
+I'm a student in **Computer Science, Statistics, and Artificial Intelligence (ISIA)** at **Polytech Lille**, actually in an exchange semester at **UQAC**.  
+I am passionate about software development and data-driven problem solving.
 
 
 ## 💫 About Me:
-🔭 I’m currently working on Academic projects involving Data Analysis and Object-Oriented Programming.  
-👯 I’m looking to collaborate on Open Source Java projects  
+🔭 I’m currently working on Academic projects involving Cloud Computing and Object-Oriented Programming.  
 🌱 I’m currently learning about ML models, Time series, NoSQL databases, and Big Data  
-🤔 I’m looking for an Internship in Software Development (Java, Python, C, or SQL) where I can apply my skills in data-driven systems.  
+🤔 I’m looking for an Internship in Software Development (Java/Kotlin, Python, C, or SQL) where I can apply my skills in data-driven systems.  
 💬 Ask me about: Java development, Machine Learning basics, or Data Privacy.  
 ⚡ Fun fact: I can't sleep until my indentation is perfect
 
