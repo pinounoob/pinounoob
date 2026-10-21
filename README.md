@@ -1,6 +1,6 @@
 # Hi there, I'm Aliona!👋
 
-I'm a student in **Computer Science, Statistics, and Artificial Intelligence (ISIA)** at **Polytech Lille**, actually in an exchange semester at **UQAC**.  
+I'm a student in **Computer Science, Statistics, and Artificial Intelligence (ISIA)** at **Polytech Lille**, currently in an exchange semester at **UQAC**.  
 I am passionate about software development and data-driven problem solving.
 
 
